@@ -23,11 +23,11 @@ For an optimal learning experience, we recommend the following hardware configur
 
 ### Software requirements
 You must also install in advance the following software:
-Any of the following operating systems: 
-* Windows 7 SP1 32/64-bit, 
-* Windows 8.1 32/64-bit or Windows 10 32/64-bit
-* Ubuntu 14.04 or later
-* macOS Sierra or later
+* Any of the following operating systems: 
+  * Windows 7 SP1 32/64-bit, 
+  * Windows 8.1 32/64-bit or Windows 10 32/64-bit
+  * Ubuntu 14.04 or later
+  * macOS Sierra or later
 * Browser: Google Chrome or Mozilla Firefox
 * Conda
 * Jupyterlab
