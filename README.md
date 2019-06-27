@@ -17,7 +17,7 @@ Natural Language Processing Fundamentals starts with basics and goes on to expla
 
 ### Hardware requirements
 For an optimal learning experience, we recommend the following hardware configuration:
-* Processor: Dual Core or better
+* Processor: i5 Quad Core or better
 * Memory: 4GB RAM
 * Storage: 10 GB available space
 
